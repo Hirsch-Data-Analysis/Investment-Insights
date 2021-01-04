@@ -17,6 +17,10 @@ Worth checking domain of topic and type company.
 
 # Power BI dashboard 
 
+A Power Bi dashboard is a brief insight of what was reported on the topic. 
+So when clicking on a graph in the dashboard, Power BI would direct straight into the detailed visual report. 
+
+
 <img width="507" alt="Invest insightsdash" src="https://user-images.githubusercontent.com/47668423/103569258-464f6980-4ec7-11eb-8a73-5ddc53dcd798.png">
 
 
