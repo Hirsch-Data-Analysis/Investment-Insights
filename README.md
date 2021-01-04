@@ -17,3 +17,6 @@ Worth checking domain of topic and type company.
 
 # Power BI dashboard 
 
+<img width="507" alt="Invest insightsdash" src="https://user-images.githubusercontent.com/47668423/103569258-464f6980-4ec7-11eb-8a73-5ddc53dcd798.png">
+
+
