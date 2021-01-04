@@ -14,3 +14,6 @@ Worth checking domain of topic and type company.
 ![inv2](https://user-images.githubusercontent.com/47668423/103565714-0f765500-4ec1-11eb-97d9-63da7351fb2f.png)
 
 <img width="954" alt="inv3" src="https://user-images.githubusercontent.com/47668423/103565715-100eeb80-4ec1-11eb-8f7d-4a25725a8baf.png">
+
+# Power BI dashboard 
+
