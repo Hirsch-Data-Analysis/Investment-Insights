@@ -6,3 +6,11 @@ Series B and angel.
 Where there is lower amounts raised for other types of funding, there's less acess for ex. ventures and others. 
 Regplots show that types of funding reveal not only the type of company but also the amount of money companies can usually raiseusing the types of funding. 
 Worth checking domain of topic and type company.
+
+# Graphs initiated with Python
+
+![inv 1](https://user-images.githubusercontent.com/47668423/103565708-0e452800-4ec1-11eb-9645-148d87a8cd5d.png)
+
+![inv2](https://user-images.githubusercontent.com/47668423/103565714-0f765500-4ec1-11eb-97d9-63da7351fb2f.png)
+
+<img width="954" alt="inv3" src="https://user-images.githubusercontent.com/47668423/103565715-100eeb80-4ec1-11eb-8f7d-4a25725a8baf.png">
