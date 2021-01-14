@@ -1,10 +1,10 @@
 # Investment-Insights
 
-*2007 is best Post Money Valuation year as it goes hand in had with amount raised. Higher valuation with high investment raised. 
+* 2007 is best Post Money Valuation year as it goes hand in had with amount raised. Higher valuation with high investment raised. 
 * It is Worth looking at the economic context in order to see the level of funding attraction across startups as well as the amounts raised according to types of funding such as  series A+ followed by Angel.
-*There is a weak correlation between post money valuation and the ramount rasised. Also between funding type and raised amounts, a relationship that shows which type of funding is more accessible. 
-*Where there is lower amounts raised for other types of funding, there's less acess for ex. ventures and others. 
-*Regression plots show what types of funding is specific to which sort/size of company and their specific investment raised.  
+* There is a weak correlation between post money valuation and the ramount rasised. Also between funding type and raised amounts, a relationship that shows which type of funding is more accessible. 
+* Where there is lower amounts raised for other types of funding, there's less acess for ex. ventures and others. 
+* Regression plots show what types of funding is specific to which sort/size of company and their specific investment raised.  
 
 
 # Graphs initiated with Python
